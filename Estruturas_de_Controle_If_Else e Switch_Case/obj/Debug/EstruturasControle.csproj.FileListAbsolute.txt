@@ -1,0 +1,6 @@
+C:\VisualStudio\EstruturasControle\bin\Debug\EstruturasControle.exe.config
+C:\VisualStudio\EstruturasControle\bin\Debug\EstruturasControle.exe
+C:\VisualStudio\EstruturasControle\bin\Debug\EstruturasControle.pdb
+C:\VisualStudio\EstruturasControle\obj\Debug\EstruturasControle.csprojResolveAssemblyReference.cache
+C:\VisualStudio\EstruturasControle\obj\Debug\EstruturasControle.exe
+C:\VisualStudio\EstruturasControle\obj\Debug\EstruturasControle.pdb
